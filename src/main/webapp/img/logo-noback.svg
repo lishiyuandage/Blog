@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="210mm"
+   height="100mm"
+   viewBox="0 0 210 100"
+   version="1.1"
+   id="svg8"
+   inkscape:version="0.92.3 (2405546, 2018-03-11)"
+   sodipodi:docname="logo-noback.svg">
+  <defs
+     id="defs2" />
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="0.35"
+     inkscape:cx="400"
+     inkscape:cy="102.85714"
+     inkscape:document-units="mm"
+     inkscape:current-layer="layer2"
+     showgrid="false"
+     showguides="true"
+     inkscape:guide-bbox="true"
+     inkscape:snap-to-guides="false"
+     inkscape:window-width="958"
+     inkscape:window-height="1008"
+     inkscape:window-x="-7"
+     inkscape:window-y="0"
+     inkscape:window-maximized="0">
+    <sodipodi:guide
+       position="117.92857,142.875"
+       orientation="0,1"
+       id="guide62"
+       inkscape:locked="false" />
+    <sodipodi:guide
+       position="108.85714,121.70834"
+       orientation="1,0"
+       id="guide64"
+       inkscape:locked="false" />
+  </sodipodi:namedview>
+  <metadata
+     id="metadata5">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:groupmode="layer"
+     id="layer2"
+     inkscape:label="Layer 2"
+     transform="translate(0,-197)">
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:10.76752472px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26918811"
+       x="20.919762"
+       y="256.29562"
+       id="text12"
+       transform="scale(0.98289371,1.017404)"><tspan
+         sodipodi:role="line"
+         id="tspan10"
+         x="20.919762"
+         y="256.29562"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:51.68412018px;font-family:'Vladimir Script';-inkscape-font-specification:'Vladimir Script';fill:#aa0000;stroke-width:0.26918811">Lee</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:10.76752472px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26918811"
+       x="94.754234"
+       y="259.37204"
+       id="text32"
+       transform="scale(0.98289371,1.017404)"><tspan
+         sodipodi:role="line"
+         id="tspan30"
+         x="94.754234"
+         y="259.37204"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:51.68412018px;font-family:SimSun-ExtB;-inkscape-font-specification:SimSun-ExtB;fill:#d4aa00;stroke-width:0.26918811">Blog</tspan></text>
+  </g>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(0,-197)">
+    <flowRoot
+       xml:space="preserve"
+       id="flowRoot14"
+       style="font-style:normal;font-weight:normal;font-size:40px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
+       transform="scale(0.26458333)"><flowRegion
+         id="flowRegion16"><rect
+           id="rect18"
+           width="388.57144"
+           height="194.28572"
+           x="242.85715"
+           y="608.23395" /></flowRegion><flowPara
+         id="flowPara20"
+         style="font-size:192px;fill:#d4aa00">Blog</flowPara></flowRoot>    <flowRoot
+       xml:space="preserve"
+       id="flowRoot22"
+       style="font-style:normal;font-weight:normal;font-size:40px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"><flowRegion
+         id="flowRegion24"><rect
+           id="rect26"
+           width="411.42856"
+           height="251.42857"
+           x="297.14285"
+           y="333.94824" /></flowRegion><flowPara
+         id="flowPara28" /></flowRoot>  </g>
+</svg>
